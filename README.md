@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Eduardo Oliveira, a Front-End Programmer, currently learning and creating projects with:
+<h3>Sou o Eduardo Oliveira Desenvolvedor Front End em formação, focado em criar interfaces modernas, responsivas e funcionais.</h3>
+<br>
+<br>
+<h4>Atualmente estudando e desenvolvendo projetos com:</h4>
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
@@ -17,14 +20,14 @@ I'm Eduardo Oliveira, a Front-End Programmer, currently learning and creating pr
   </a>
 </p>
 
-Languages and Tools
-<div>
-  <img src="https://th.bing.com/th/id/OIP.eTgg667XGd11kvh3qtoWAwHaHa?w=174&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" width="30px">
+## 🛠️ Languages and Tools
 
-  <img src="https://th.bing.com/th/id/OIP.h82SLkw-JzFQwNZphvi7UAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" width="28px">
-
-  <img src="https://th.bing.com/th/id/OIP.6vmpbJPxcm9n24pCRVwvQgHaHa?w=179&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" width="29px">
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
 <br>
 <br>
 
